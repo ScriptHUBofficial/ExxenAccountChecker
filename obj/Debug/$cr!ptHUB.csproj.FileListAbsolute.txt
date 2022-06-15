@@ -1,0 +1,13 @@
+C:\Users\pc\source\repos\$cr!ptHUB\$cr!ptHUB\bin\Debug\$cr!ptHUB.exe.config
+C:\Users\pc\source\repos\$cr!ptHUB\$cr!ptHUB\bin\Debug\$cr!ptHUB.exe
+C:\Users\pc\source\repos\$cr!ptHUB\$cr!ptHUB\bin\Debug\$cr!ptHUB.pdb
+C:\Users\pc\source\repos\$cr!ptHUB\$cr!ptHUB\obj\Debug\$cr!ptHUB.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\$cr!ptHUB\$cr!ptHUB\obj\Debug\$cr!ptHUB.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\$cr!ptHUB\$cr!ptHUB\obj\Debug\$cr!ptHUB.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\$cr!ptHUB\$cr!ptHUB\obj\Debug\$cr!ptHUB.exe
+C:\Users\pc\source\repos\$cr!ptHUB\$cr!ptHUB\obj\Debug\$cr!ptHUB.pdb
+C:\Users\pc\source\repos\$cr!ptHUB\$cr!ptHUB\obj\Debug\ScriptHUB.Properties.Resources.resources
+C:\Users\pc\source\repos\$cr!ptHUB\$cr!ptHUB\bin\Debug\Colorful.Console.dll
+C:\Users\pc\source\repos\$cr!ptHUB\$cr!ptHUB\bin\Debug\Leaf.xNet.dll
+C:\Users\pc\source\repos\$cr!ptHUB\$cr!ptHUB\bin\Debug\xNet.dll
+C:\Users\pc\source\repos\$cr!ptHUB\$cr!ptHUB\obj\Debug\$cr!ptHUB.csproj.CopyComplete
